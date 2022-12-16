@@ -101,3 +101,13 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* 404 Page */
+.not-found h2 {
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+
+.not-found p {
+  margin-bottom: 30px;
+}
